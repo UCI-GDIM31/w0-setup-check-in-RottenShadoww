@@ -7,15 +7,20 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
 
+Hello! My name is Shadow, i use he/they pronouns and I am currently taking this class because I am planning on transfering into the GDIM major. There are multiple games I like to play such as Phasmophobia, Genshin Impact, Fortnite, GTA V, Detroit Become Human, Left for Dead 2, Hogwarts Legacy, and many more. Sadly I do not have any previous experience with game development, however I would like to build a story based open world game such as Genshin Impact or Hogwarts Legacy. 
+
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
     - [ ] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
-    - [ ] Undecided
+    - [X] Undecided
     - [ ] Other (please specify)
 
 3. What are you hoping to get out of this class?
+
+
+
 4. What, if anything, are you nervous about for this class?
 
 ## Prior Experience
