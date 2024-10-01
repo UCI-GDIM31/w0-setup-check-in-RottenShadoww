@@ -19,9 +19,11 @@ Hello! My name is Shadow, i use he/they pronouns and I am currently taking this 
 
 3. What are you hoping to get out of this class?
 
-
+I am hoping to learn how to contribute to the coding aspect of game development. I wish to learn how to do these aspects on my own and also being able to use these skills while collaborating with other people. 
 
 4. What, if anything, are you nervous about for this class?
+
+I am extremely nervous about editing the wrong file or doing something wrong, also about not being able to retain the information I learn in here and making multiple mistakes wihtout realizing. 
 
 ## Prior Experience
 
@@ -31,9 +33,15 @@ The next questions ask about what (if any) prior experience you have. This class
 
 1. Programming (any languages/ frameworks)
 
+N/A
+
 2. Game development (any engine)
 
+N/A
+
 3. Unity
+
+N/A
 
 ### Programming & Game Development Concepts
 
@@ -46,13 +54,23 @@ For the next questions, a programming or game development concept is presented:
 
 1. Game design document
 
+N/A
+
 2. Scope management
+
+N/A
 
 3. Iteration
 
+N/A
+
 4. Object-Oriented programming
 
+N/A
+
 5. Model-View-Controller architecture
+
+N/A
 
 ## Complete!
 
